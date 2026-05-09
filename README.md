@@ -17,7 +17,7 @@ A concise exploratory data analysis project in Python focused on the Steam games
    ```
 
 ## Dataset Info
-- **Source:** Kaggle — Steam Games Dataset (fronkongames)
+- **Source:** [Kaggle — Steam Games Dataset (fronkongames)](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset/data)
 - **File used:** `games.csv` (not committed)
 - **Size:** ~122,611 rows
 - **Core fields analyzed:** `Name`, `Release date`, `Estimated owners`, `Price`, `Windows`, `Mac`, `Linux`, `Metacritic score`, `Achievements`, `Average playtime forever`
