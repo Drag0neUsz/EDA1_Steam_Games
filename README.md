@@ -1,4 +1,4 @@
-# EDA1 — Steam Games Exploratory Data Analysis
+# Steam Games Exploratory Data Analysis
 
 ## Short Introduction
 A concise exploratory data analysis project in Python focused on the Steam games catalog (~122k entries). The notebook (`EDA0.ipynb`) explores platform coverage, pricing, review signals, release trends, and engagement-related features.
